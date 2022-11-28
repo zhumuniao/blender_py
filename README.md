@@ -1,1 +1,1 @@
-# blender_py
+# blender小白插件开发
